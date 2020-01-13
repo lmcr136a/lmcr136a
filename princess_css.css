@@ -1,0 +1,251 @@
+
+body{
+background-color: ghostwhite;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+    background-image: url(back.png);
+    background-size: cover;
+    background-attachment: fixed;
+    }
+.back{
+        overflow: hidden;
+            background-color: white;
+            background-color: rgba(255, 255, 255, 0.8);
+            background-size: cover;
+}
+
+
+h1{
+    margin-right: 260px;
+    margin-top: 50px;
+}
+.greeting{
+    text-indent : 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pics{
+    width: 95%;
+}
+
+.graduation{
+    overflow: hidden;
+    padding-right: 15px;
+}
+.pic1{
+    float: left;
+    margin: 10px;
+    border: 5px solid white;
+    padding: 5px;
+    padding-bottom: 0px;
+    }
+.pp1{
+    overflow: hidden;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-indent: 5%;
+}
+
+.yel{
+    overflow: hidden;
+    padding-left: 15px;
+}
+.pic2{
+    clear: left;
+    float:right;   
+    margin: 10px;
+    border: 5px solid white;
+    padding: 5px;
+}
+.pp2{
+    overflow: hidden;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-indent: 5%;
+}
+
+.blue{
+    overflow: hidden;
+    padding-right: 15px;
+}
+.pic3{
+    clear: right;
+    float:left;
+    border: 5px solid white;
+    padding: 5px;
+    margin: 10px;    
+}
+.pp3{
+    overflow: hidden;
+    width: 380px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-indent: 5%;
+}
+
+
+.ocean{
+    overflow: hidden;
+    padding-left: 15px;
+
+}
+.pic4{
+    clear: left;
+    float:right;
+    border: 5px solid white;
+    padding: 5px;    
+    margin: 10px;
+}
+.pp4{
+    overflow: hidden;
+    width: 335px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 10px;
+    text-indent: 5%;
+}
+
+
+.dance{
+    overflow: hidden;
+    padding-right: 15px;
+}
+.pic5{
+    clear: right;
+    float:left;
+    border: 5px solid white;
+    padding: 5px;    
+    margin: 10px;
+}
+.pp5{
+    overflow: hidden;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-indent: 5%;
+}
+
+
+
+.spring{
+    overflow: hidden;
+    padding-left: 15px;
+}
+.pic6{
+    clear: left;
+    float:right;
+    border: 5px solid white;
+    padding: 5px; 
+    margin: 10px;
+}
+.pp6{
+    overflow: hidden;
+    width: 380px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-indent: 5%;
+}
+
+
+.memory{
+    border-top-color: darkmagenta;
+    border-top-style: dotted;
+    border-top-width: 3px;
+    
+    margin-bottom: 5em;
+}
+
+
+
+
+#hotpink{
+    margin-top : 30px;
+    margin-bottom: 20px;
+   
+}
+#birth{
+        margin-top: 3px;
+        margin-bottom: 3px;
+    letter-spacing : 0.5px;
+    font-size: 14px;
+    
+}
+.insta{
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    line-height: 10px;
+}
+/*----insta end---- */
+
+
+.ins_skroll{
+    margin-top: 50px;
+    margin-left : 100px;
+    margin-right: 30px;
+            background-color: rgba(255, 255, 255, 0.4);
+/*    border: 10px solid black; */
+    
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+    
+}
+
+.skroll{
+    float: left;
+    overflow: hidden;
+    width: 53em;
+    border-right: 1px solid;
+    border-right-color: darkkhaki;
+    
+/*        border: 5px solid red;    */
+}
+
+
+
+.unsk{
+width: 40em;
+overflow: hidden;
+position: fixed;
+    top: 0;
+    right: 0;
+
+}
+
+.lay2{
+    float: left;
+    margin-left : 10px;
+    margin-right : 10px;
+    padding: 20px;
+
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    margin-right: 20px;
+}
+
+
+    p{
+
+        letter-spacing: 2px;
+
+    }
+
+
+

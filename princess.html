@@ -1,0 +1,139 @@
+<!doctype HTML>
+<html>
+<head>
+    <title> NAHYEONKIM : my page</title>
+    
+    
+<link href="princess_css.css" rel="stylesheet" type="text/css"/>
+    
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto|Shadows+Into+Light&display=swap');
+    
+    body{
+
+    }
+    
+</style>
+<link href="https://fonts.googleapis.com/css?family=Roboto|Shadows+Into+Light&display=swap" rel="stylesheet">
+    
+    
+    <meta name="Description" content="Im beautiful" />
+    <meta name = "robots" content="noindex, nofollow" />
+    
+
+</head>
+    <!-- ============================-->
+ 
+<body>
+<div class="back">   
+
+    
+<div class="skroll">
+    <div class="ins_skroll">
+        
+<h1> Hi, I am NaHyeon Kim.</h1>
+       <div class="greeting"> 
+    <p>Thank you for visiting. This is a site I created to <br/>
+    introduce myself. On the right are the activities I'm doing <br/>and my SNS links. If you scroll down,
+    I'll show you my <br/>past fun experience.
+    I hope my pleasant experience will be <br/>shown to you in a lovely way.</p>
+        </div> <!-- greeting end -->
+    <br/><br/><br/><br/><br/><br/>
+    
+    <!----------------------------------->
+    <div class="pics">
+    
+    <div class="graduation memory">
+        <div class="pic1"> <img src="gradu.jpg" alt="picture 2" height="200" /> </div>
+        
+        <div class="pp1"><p>This is my high school graduation picture. I graduated from Sinmok High School in Mokdong, Seoul. When I see myself smiling like this, I want to go back to this time. I think this picture contains both school days and feelings.</p></div> <!------pp1 end----->
+        </div>
+        
+    <div class="yel memory">
+        <div class="pic2"><img src=yel.jpg alt="picture2" height="200" /></div>
+        
+        <div class="pp2">
+        <p>This is a picture taken when I was a yellow hair. Ever since I was young, I wanted to do my bright yellow hair when I became a college student. It's pretty when I bleach my hair, but it's hard to manage and I care when I go to a polite place. Maybe I won't do it again. Sometimes I feel the urge to be bright again, but this is probably the last time.
+            </p></div>
+        </div><!----yel end--->
+    
+        
+    <div class="blue memory">
+        <div class="pic3"><img src=blue.jpg alt="picture3" height="200" /></div>
+        
+        <div class="pp3">
+        <p>I really like the stage where I can take pretty pictures. This is the Picture Zone in Lotte World. I went there with my high school friends in 2018, and I can't forget my memories here because I had so much fun. I hope my friendship with them will last forever. Oh, but that teddy bear was a little dirty, so I was sad..
+            </p></div>
+        </div><!----blue end--->
+    
+     <div class="ocean memory">
+        <div class="pic4"><img src=ocean.jpg alt="picture24" height="200" /></div>
+        
+        <div class="pp4">
+        <p>This was when I went to Sokcho in February 2019. I've been to Sokcho three times in 2019. I took this picture with my friends on a trip. Of the three times I went, this was the coldest time.
+Can you see that dynamic figure of the wind blowing my hair? I can still see the feeling of the biting wind in this picture.
+            </p></div>
+        </div><!----ocean end--->   
+ 
+    <div class="dance memory">
+        <div class="pic5"><img src=dance.jpg alt="picture5" height="200" /></div>
+        
+        <div class="pp5">
+        <p>I was a dancer for the Korean dance team 'Harang'.
+The clothes worn during the performance are a modern adaptation of Korean traditional clothes.
+I bought and made this cloth by myself.
+I am now busy with other things, so I am stopping for a while, but if I have time, I will definitely do Korean dance again.
+            </p></div>
+        </div><!----dance end--->        
+    
+    <div class="spring memory">
+        <div class="pic6"><img src=spring.jpg alt="picture6" height="200" /></div>
+        
+        <div class="pp6">
+        <p>Here I am under a big cherry tree in the Han River.
+At this time I was a freshman in college, full of joy, and knew how to make a big, big smile with new and fresh energy.<br/> 
+                This picture shows not only my smile but also the spring of 2018.
+Warm sunshine, lively spring breeze, and flying petals were such a romantic day
+            </p></div>
+        </div><!----spring end--->     
+    
+    
+    
+    </div>
+    <!-- pics end ------------------------>
+    </div><br/></div> <!-- skroll end -->
+    
+<div class="unsk"><!-- unsk start -->
+        
+<div class="lay2">
+    <a id="hotpink"> 
+        <img src="hotpink.jpg" alt="picture 1" height="300" width="200"/>
+    </a>
+                <p><a id="birth"> 1998. 10. 23</a></p>
+        
+            <div class="insta">
+            <p> my instagram : <a href="https://www.instagram.com/steam_hyeon/">steam_hyeon</a>
+            </p>
+            <p> my facebook : <a href="https://www.facebook.com/profile.php?id=100027210850415">NaHyeon</a></p>
+        </div><!-- insta end -->
+            
+            </div><!-- lay2 end -->
+            
+<div class="lay3">
+       <ul> 
+           <li> Department of Mechanical Engineering and Venture Management at Seoul National University (SNU) </li><br/>
+    <li>Computer Room Management Team (MACCA) of the Mechanical Engineering Department of Seoul National University's New Engineering Building</li><br/>
+    <li>JYP Entertainment Training Instructor</li><br/>
+    <li>Member of the  Seoul National University living cooperative association  executive committee</li><br/>       
+    <li>Korean Dance Team 'Harang'</li>
+    
+           </ul>   
+            
+            </div><!-- lay3 end -->
+        
+    </div><!-- unsk end -->
+    
+        </div>
+</body>
+
+</html>
