@@ -27,7 +27,8 @@ h1{
 }
 
 .pics{
-    width: 95%;
+width: inherit;
+    
 }
 
 .graduation{
@@ -220,11 +221,11 @@ h1{
 
 
 .unsk{
-    margin: 0px;
 overflow: hidden;
 position: fixed;
     top: 0;
     right: 0;
+    width: 650px;
 
 }
 
