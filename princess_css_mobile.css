@@ -44,7 +44,7 @@ width: inherit;
     }
 .pp1{
     overflow: hidden;
-    width: 300px;
+    width: 75%;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-left: 15px;
@@ -65,7 +65,7 @@ width: inherit;
 }
 .pp2{
     overflow: hidden;
-    width: 300px;
+    width: 75%;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-left: 15px;
@@ -86,7 +86,7 @@ width: inherit;
 }
 .pp3{
     overflow: hidden;
-    width: 300px;
+    width: 70%;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-left: 15px;
@@ -109,7 +109,7 @@ width: inherit;
 }
 .pp4{
     overflow: hidden;
-    width: 250px;
+    width: 65%;
     margin-top: 15px;
     margin-bottom: 20px;
     padding-left: 5px;
@@ -131,7 +131,7 @@ width: inherit;
 }
 .pp5{
     overflow: hidden;
-    width: 300px;
+    width: 70%;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-left: 15px;
@@ -154,7 +154,7 @@ width: inherit;
 }
 .pp6{
     overflow: hidden;
-    width: 280px;
+    width: 70%;
     margin-top: 15px;
     margin-bottom: 20px;
     padding-left: 10px;
@@ -177,6 +177,8 @@ width: inherit;
 #hotpink{
     margin-top : 30px;
     margin-bottom: 20px;
+    margin-left: 0 auto;
+    border: 3px ridge black;
    
 }
 #birth{
@@ -190,8 +192,7 @@ width: inherit;
     font-size: 13px;
     letter-spacing: 0.5px;
     line-height: 10px;
-    margin: 0px;
-    padding: 0px;
+    margin-left: 0%;
 }
 /*----insta end---- */
 
@@ -234,10 +235,8 @@ position: fixed;
 .lay2{
     margin-left : 10px;
     margin-right : 10px;
-    padding: 20px;
-    padding-right: 0px;
-    width: 32%;
-    float: left;
+    padding: 10%
+        
 
 }
 ul{
@@ -249,7 +248,7 @@ ul{
 .lay3{
     overflow: hidden;
     font-size: 15px;
-    width: 60%;
+    width: 100%;
 }
 
 
