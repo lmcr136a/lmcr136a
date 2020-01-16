@@ -213,7 +213,7 @@ width: inherit;
 .skroll{
     float: left;
     overflow: hidden;
-    width: 600px;
+    width: 60%;
     border-right: 1px solid;
     border-right-color: darkkhaki;
     
@@ -223,12 +223,11 @@ width: inherit;
 
 
 .unsk{
-
 overflow: hidden;
 position: fixed;
     top: 0;
     right: 0;
-    width: 300px;
+    width: 40%;
 
 }
 
@@ -236,7 +235,9 @@ position: fixed;
     margin-left : 10px;
     margin-right : 10px;
     padding: 20px;
-    width: 200px;
+    padding-right: 0px;
+    width: 32%;
+    float: left;
 
 }
 ul{
@@ -248,7 +249,7 @@ ul{
 .lay3{
     overflow: hidden;
     font-size: 15px;
-    width: 300px;
+    width: 60%;
 }
 
 
