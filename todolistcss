@@ -1,0 +1,77 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Hi Melody', cursive;
+    font-size:20px;
+}
+
+h1{
+    font-size: 50px;
+    color: #79752a;
+    font-weight:bold;
+}
+
+#enter {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+ul{
+    list-style : none;
+    padding: 0;
+    margin: 0px;
+}
+
+ ul li {
+        border: 1px gray;
+        border-right: 2px black;
+        border-left: 2px black;
+        border-style: dotted;
+        padding: 5px 10px;
+        margin: 10px;
+    }
+
+.checked{
+        text-decoration: line-through;
+        color: #7d838b;
+        font-weight:bold;
+    }
+
+#todolist li {
+    background: #fdecec;
+}
+
+#todolist li:hover{
+    transition: all 0.5s;
+    transition-timing-function: linear;
+    background-color: #e0f1fd;
+}
+
+.fa-edit{
+float:right;
+padding:2px;
+font-size: 10px;
+border: 2px solid white;
+visibility: hidden;
+}
+
+#donelist li {
+    background: #e0f1fd;
+}
+#donelist li:hover {
+    transition: all 0.5s;
+    transition-timing-function: linear;
+    background-color: #fdecec;
+}
+
+.fa-minus {
+    float: right;
+    padding: 2px;
+    font-size: 10px;
+    border: 2px solid white;
+    visibility: hidden;
+}
+
+#todolist,#donelist {
+    width: 80%;
+}
