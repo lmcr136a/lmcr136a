@@ -1,0 +1,42 @@
+<!doctype HTML>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Todolist::NH</title>
+    <link href="todoslistcss.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Hi+Melody|Indie+Flower&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/39a43f722b.js" crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+    <div class="container">
+        <div class="row">
+            <a href="todolist.html"><h1> To do list</h1></a>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6">
+                <hr />
+                <p id="enter">Write what to do and Press Enter!</p>
+
+                <p class="inputarea">
+                    <input type="text" id="inputText" placeholder="what to do" />
+                    <ul id="todolist"></ul>
+                </p>
+             </div>
+   
+            <div class="col-sm-6">
+                <hr/>
+                <p id="enter">Done</p>
+                <ul id="donelist"></ul>
+            </div>
+        </div>
+    </div>
+   
+
+    <script src="main.js"></script>
+</body>
+</html>
