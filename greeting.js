@@ -22,6 +22,7 @@ function handleSubmit(event) {
 
 function askForName() {
     console.log("askForName");
+        console.log("askForName");
     form.classList.add(SHOWING_CN);
         console.log("complete add class name showing");
     form.addEventListener("submit" , handleSubmit);
