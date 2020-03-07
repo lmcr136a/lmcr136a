@@ -20,10 +20,7 @@ h1{
 
 }
 
-.form,
-.greetings {
-    display: none;
-}
+
 
 .greetings {
     position: absolute;
