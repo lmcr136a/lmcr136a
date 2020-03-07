@@ -8,10 +8,12 @@ const USER_LS = "currentUser",
     SHOWING_CN = "showing";
 
 function saveName(text) {
+    console.log("savename");
     localStorage.setItem(USER_LS, text);
 }
 
 function handleSubmit(event) {
+    console.log("handleSubmit");
     event.preventDefault();
     const currentValue = input.value;
     paintGreeting(currentValue);
@@ -19,11 +21,13 @@ function handleSubmit(event) {
 }
 
 function askForName() {
+    console.log("askForName");
     form.classList.add(SHOWING_CN);
     form.addEventListener("submit" , handleSubmit);
 }
 
 function paintGreeting(text) {
+    console.log("paintGreeting");
     form.classList.remove(SHOWING_CN);
     greeting.classList.add(SHOWING_CN);
     greeting.innerText = "Hello " + text;
